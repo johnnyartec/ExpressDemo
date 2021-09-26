@@ -41,4 +41,5 @@ export default {
     console.log(hash);
     const text = decrypt(hash);
     console.log(text); // Hello World!
+    
  */
